@@ -5,17 +5,20 @@ module.exports = {
             titleMode: "titlecase", // 将标题转换为 title case
         }]
     ],
+    locales: {
+        '/': {
+            lang: 'zh-CN',
+            title: '出海&移民留学指南圣经',
+            description: '出海&移民留学指南圣经'
+        },
+    },
     themeConfig: {
         nav: [
-            { text: '出海相关', link: '/overseasRef/' },
-            { text: '产品经验', link: '/productRef/' },
-            {
-                text: '经验杂谈',
-                items: [
-                    { text: 'Item 1', link: '/item-1/' },
-                    { text: 'Item 2', link: '/item-2/' }
-                ]
-            }
+            { text: '首页', link: '/' },
+            { text: '出海相关', link: '/overseasAbout/' },
+            { text: '产品经验', link: '/productAbout/' },
+            { text: 'GitHub', link: 'https://github.com/your-username/your-repo', icon: 'github' } // Replace with your GitHub repo URL
         ],
     }
+
 }
