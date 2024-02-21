@@ -9,10 +9,14 @@ module.exports = {
         '/': {
             lang: 'zh-CN',
             title: '出海&移民留学指南圣经',
-            description: '出海&移民留学指南圣经'
+            description: '出海&移民留学指南圣经',
+            editLinkText: 'Edit this page on GitHub',
+            lastUpdated: 'Last Updated',
         },
     },
     themeConfig: {
+        repo: 'ikkkp/IndieDevAtlas',
+        editLinks: true,    
         nav: [
             { text: '首页', link: '/' },
             { text: '出海相关', link: '/overseasAbout/' },
