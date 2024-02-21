@@ -29,13 +29,17 @@
 
 文档还处于初期建设阶段，我们非常欢迎社区成员的任何贡献，无论是修复错误、添加新功能，还是改进文档。
 
-![image](https://github.com/ikkkp/IndieDevAtlas/assets/148513444/1e621747-e535-4da0-a70e-4013d1e7f096)
+![image](https://github.com/ikkkp/IndieDevAtlas/assets/148513444/9910fd94-70a3-4a72-b467-0b14b7a7adbe)
 
 程序员出海&移民留学宝典 是专为软件开发者和技术人员设计的出海指南平台。在这里，我们致力于帮助技术专业人士探索和抓住全球化的机遇，无论是寻找海外就业机会、参与国际项目还是将自己的产品推向全球市场。
 
-![image](https://github.com/ikkkp/IndieDevAtlas/assets/148513444/5c1f4dfa-fb67-41ac-bd92-eff170883ae2)
+![image](https://github.com/ikkkp/IndieDevAtlas/assets/148513444/95a684ae-4b8a-47b3-b6da-62bf06f7dfc7)
 
-![image](https://github.com/ikkkp/IndieDevAtlas/assets/148513444/22d18e32-77df-4606-8c6d-d747b52fac08)
+![image](https://github.com/ikkkp/IndieDevAtlas/assets/148513444/5e1c12e0-9ffe-4395-b1bb-b78546ac730c)
+
+
+
+
 
 
 
