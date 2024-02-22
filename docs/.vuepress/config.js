@@ -15,13 +15,15 @@ module.exports = {
         },
     },
     themeConfig: {
-        repo: 'ikkkp/IndieDevAtlas',
-        editLinks: true,    
+        repo: 'IndieDevAtlas/IndieDevAtlas',
+        editLinks: true,
+        docsRepo: 'IndieDevAtlas/IndieDevAtlas', // 文档所在的仓库
+        docsDir: 'docs', // 文档在仓库中的目录
+        docsBranch: 'main', // 使用的分支  
         nav: [
             { text: '首页', link: '/' },
             { text: '出海相关', link: '/overseasAbout/' },
             { text: '产品经验', link: '/productAbout/' },
-            { text: 'GitHub', link: 'https://github.com/your-username/your-repo', icon: 'github' } // Replace with your GitHub repo URL
         ],
     }
 
